@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java-icon.png"
+  },
+  {
+    "title": "Spring Boot", 
+    "imageSrc": "skills/spring-icon.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql-icon.png"
+  },
+  {
+    "title": "HTML5",
+    "imageSrc": "skills/html-icon.png"
+  },
+  {
+    "title": "CSS3",
+    "imageSrc": "skills/css-icon.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript-icon.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react-icon.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman-icon.png"
+  },
+  {
+    "title": "Git & GitHub",
+    "imageSrc": "skills/git-icon.png"
+  }
+]

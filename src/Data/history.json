@@ -1,0 +1,30 @@
+ [
+    {
+      "role": "Java Full Stack Developer",
+      "organization": "Personal Projects & Portfolio",
+      "startDate": "2025",
+      "endDate": "Present",
+      "experiences": [
+        "Developed responsive portfolio website using React and modern CSS",
+        "Built full-stack e-commerce application with Java Spring Boot backend",
+        "Tested REST APIs using Postman for backend functionality",
+        "Implemented MySQL database integration for data persistence",
+        "Used Git for version control and project management"
+      ],
+      "imageSrc": "history/portfolio.png"
+    },
+    {
+      "role": "Java Developer & Learner",
+      "organization": "Self-Taught & Academic Journey", 
+      "startDate": "2025",
+      "endDate": "Present",
+      "experiences": [
+        "Mastered Java programming and Object-Oriented Principles",
+        "Learned Spring Boot framework for enterprise application development",
+        "Gained expertise in MySQL database design and management",
+        "Developed responsive web interfaces with React and CSS",
+        "Practiced API testing and documentation using Postman"
+      ],
+      "imageSrc": "history/learning.png"
+    }
+  ]

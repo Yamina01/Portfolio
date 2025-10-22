@@ -1,0 +1,26 @@
+ [
+    {
+      "title": "Interactive Calculator",
+      "imageSrc": "projects/calculator.png",
+      "description": "A responsive calculator with smooth UI, built using vanilla JavaScript , HTML and modern CSS.",
+      "skills": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+      "demo": "https://pink-calculator-pearl.vercel.app/",
+      "source": "https://github.com/yamina01/pinkcalculator"
+    },
+    {
+      "title": "Portfolio Website", 
+      "imageSrc": "projects/portfolio.png",
+      "description": "Responsive portfolio website built with React showcasing my projects and skills as a full-stack developer.",
+      "skills": ["React", "CSS3", "JavaScript", "Vite", "Responsive Design"],
+      "demo": "https://yourportfolio.vercel.app",
+      "source": "https://github.com/yamina01/portfolio"
+    },
+    {
+      "title": "E-commerce Website",
+      "imageSrc": "projects/ecommerce.png", 
+      "description": "Full-stack e-commerce application with product catalog, shopping cart, and user authentication.",
+      "skills": ["Java", "Spring Boot", "React", "MySQL", "REST APIs"],
+      "demo": "https://izzyscart.vercel.app",
+      "source": "https://github.com/yamina01/ecommerce-frontend"
+    }
+  ]
