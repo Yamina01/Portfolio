@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Skills.module.css";
-import skills from "../../data/skills.json";
-import history from "../../data/history.json";
+import skills from "../../Data/skills.json"
+import history from "../../Data/history.json";
 
 export const Skills = () => {
   return (
