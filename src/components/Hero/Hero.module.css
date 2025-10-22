@@ -33,7 +33,7 @@
     -webkit-background-clip: text;
 }
  .greeting {
-    margin: 20px;
+    margin-top: 20px;
     font-size: 30px; 
     font-weight: 400;
     margin-bottom: 10px;
@@ -42,7 +42,6 @@
     background: none; 
     -webkit-text-fill-color: initial; 
     -webkit-background-clip: initial; 
-    z-index: 2;
 }
 
 
