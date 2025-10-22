@@ -19,6 +19,7 @@
 }
 
 .title{ 
+     color: var(--color-text) !important;
     font-size: 72px;
     font-weight: 900;
     margin-bottom: 33px;
@@ -32,6 +33,7 @@
     -webkit-background-clip: text;
 }
  .greeting {
+    margin: 20px;
     font-size: 30px; 
     font-weight: 400;
     margin-bottom: 10px;
