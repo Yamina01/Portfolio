@@ -12,8 +12,8 @@
       "imageSrc": "projects/portfolio.png",
       "description": "Responsive portfolio website built with React showcasing my projects and skills as a full-stack developer.",
       "skills": ["React", "CSS3", "JavaScript", "Vite", "Responsive Design"],
-      "demo": "https://yourportfolio.vercel.app",
-      "source": "https://github.com/yamina01/portfolio"
+      "demo": "https://portfolio-omega-fawn-46.vercel.app/",
+      "source": "https://github.com/Yamina01/Portfolio"
     },
     {
       "title": "E-commerce Website",
