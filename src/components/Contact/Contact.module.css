@@ -56,9 +56,19 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size:smaller
+  }
+
+  .text p{
+    font-size: 25px;
   }
 
   .links {
     align-items: center;
+    gap: 12px;
+    
+  }
+  .link a {
+     font-size:20px ;
   }
 }
