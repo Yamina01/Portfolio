@@ -1,12 +1,19 @@
  [
-    {
-      "title": "Interactive Calculator",
-      "imageSrc": "projects/calculator.png",
-      "description": "A responsive calculator with smooth UI, built using vanilla JavaScript , HTML and modern CSS.",
-      "skills": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
-      "demo": "https://pink-calculator-pearl.vercel.app/",
-      "source": "https://github.com/yamina01/pinkcalculator"
-    },
+   {
+  "title": "Siass Aqua Website",
+  "imageSrc": "projects/siassaqua.png",
+  "description": "A modern responsive business website developed for a water purification company featuring service pages, project showcases, WhatsApp integration, SEO optimization and mobile-first design.",
+  "skills": [
+    "React",
+    "React Router",
+    "CSS3",
+    "Responsive Design",
+    "SEO",
+    "Vercel"
+  ],
+  "demo": "https://siass-aqua.vercel.app/",
+  "source": "https://github.com/Yamina01/Siass-Aqua-"
+},
     {
       "title": "Portfolio Website", 
       "imageSrc": "projects/portfolio.png",
